@@ -15,9 +15,9 @@ begin</br>
 &nbsp;&nbsp;[...]</br>
 end</br>
 else</br>
-begin</br>
-&nbsp;&nbsp;[...]</br>
-end;</br>
+&nbsp;&nbsp;begin</br>
+&nbsp;&nbsp;&nbsp;&nbsp;[...]</br>
+&nbsp;&nbsp;end;</br>
 </br>
 </br>
 with two or more conditions and two or more "if" structures</br>
